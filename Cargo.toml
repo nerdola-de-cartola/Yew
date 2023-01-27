@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 yew = { version = "0.20.0", features = ["csr"] }
+gloo = { version = "0.8.0" }
+serde = { version = "1.0.152" }
+serde_json ={ version = "1.0.91" }
