@@ -1,0 +1,16 @@
+#container {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   width: 100vw;
+   height: 100vh;
+   background-color: aquamarine;
+}
+
+p {
+   font-size: 22px;
+}
+
+h1 {
+   color: blue;
+}
